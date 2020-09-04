@@ -10,7 +10,7 @@ module.exports = {
     postsPerPage: 5,
 
     // This allows an alternative site title for meta data for pages.
-    siteTitleMeta: `Prva osnovna skola Maglaj`,
+    siteTitleMeta: `JU "Prva osnovna škola" Maglaj`,
 
     // This allows an site description for meta data for pages.
     siteDescriptionMeta: `Web stranica Prve osnovne skole u Maglaju`,
